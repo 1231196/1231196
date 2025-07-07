@@ -1,22 +1,41 @@
-# 👋 Hi, I'm Rodrigo Faria
+# 👋 Hey, I'm Rodrigo Faria
 
-> 🧑‍🎓 2nd-year Computer Engineering Student | 💻 Aspiring Full-Stack Developer | 🚀 Exploring AI & LLMs
+> 🎓 2nd-Year Computer Engineering Student | 💻 Code Enthusiast | 📈 Learning Full-Stack & AI
 
-![Profile Views](https://komarev.com/ghpvc/?username=1231196&color=blue)
-![Followers](https://img.shields.io/github/followers/1231196?label=Follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/1231196?style=social)](https://github.com/1231196)
+[![Profile views](https://komarev.com/ghpvc/?username=1231196&color=blue)](https://github.com/1231196)
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-I'm a **20-year-old Computer Engineering student** in my second year at university. Passionate about system-level programming and web technologies, I’m steadily transitioning into full-stack development while exploring AI and Large Language Models (LLMs).
+I'm **Rodrigo**, a 20-year-old student currently pursuing a bachelor's in **Computer Engineering**. I love learning how things work — from low-level systems to high-level web apps — and I'm gradually building up skills to become a full-stack developer.
 
-### 🔧 Tech Stack
+🔍 Right now, I'm focused on:
 
-- 💻 Programming: `Java`, `C`, `Python`, `Assembly`, `SQL`, `HTML`
-- ⚙️ Tools: `Git`, `CI/CD`, `Linux`, `Shell`
-- 🌱 Learning: `JavaScript`, `React`, `Node.js`
-- 🧠 Next: `Artificial Intelligence`, `LLMs`
+- Building strong foundations in **JavaScript, React, and Node.js**
+- Learning about **AI & LLMs** and how they can be applied
+- Writing clean, efficient code and working with real-world tools like **CI/CD pipelines**
+
+---
+
+## 🛠️ Tech Stack
+
+| Domain        | Tools & Languages |
+|--------------|-------------------|
+| 💻 Programming  | `Java`, `C`, `Python`, `Assembly`, `SQL`, `HTML` |
+| ⚙️ Dev & Infra | `CI/CD`, `Git`, `Linux`, `Shell`, `VS Code` |
+| 🌱 Learning    | `JavaScript`, `React`, `Node.js`, `AI`, `LLMs` |
+
+---
+
+## 📚 Projects & Practice
+
+> *(More public projects coming soon as I clean and upload my work)*
+
+- 🛠 [My Repositories](https://github.com/1231196?tab=repositories) — small projects, scripts, and coursework
+
+Looking to collaborate or contribute to something cool? [Let's connect!](#-connect-with-me)
 
 ---
 
@@ -24,19 +43,19 @@ I'm a **20-year-old Computer Engineering student** in my second year at universi
 
 <div align="center">
 
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1231196&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1231196&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1231196&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1231196&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=1231196&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1231196&theme=radical&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -44,11 +63,20 @@ I'm a **20-year-old Computer Engineering student** in my second year at universi
 
 ## 🌐 Connect with Me
 
-[<img align="left" alt="Rodrigo Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RodrigoFaria_22)
-[<img align="left" alt="Rodrigo Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/rodrigo.faria5)
-
-<br /><br />
+<p>
+  <a href="https://twitter.com/RodrigoFaria_22" target="_blank">
+    <img alt="Twitter" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/rodrigo.faria5" target="_blank">
+    <img alt="Instagram" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@example.com">
+    <img alt="Email" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" />
+  </a>
+</p>
 
 ---
 
-_Thanks for stopping by! Feel free to follow, reach out, or check out my projects._ 👨‍💻
+_Thanks for visiting my profile! I'm always open to opportunities, collaborations, or just talking tech._ 🚀
