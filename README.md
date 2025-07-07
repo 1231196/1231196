@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I'm **Rodrigo**, a 20-year-old student currently pursuing a bachelor's in **Computer Engineering**. I love learning how things work — from low-level systems to high-level web apps — and I'm gradually building up skills to become a full-stack developer.
+I'm **Rodrigo Faria**, a 20-year-old student currently pursuing a bachelor's in **Computer Engineering**. I love learning how things work — from low-level systems to high-level web apps — and I'm gradually building up skills to become a full-stack developer.
 
 🔍 Right now, I'm focused on:
 
