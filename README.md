@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rodrigo Faria
 
-> 🎓 2nd-Year Computer Engineering Student | 💻 Code Enthusiast | 📈 Learning Full-Stack & AI
+> 🎓 3nd-Year Computer Engineering Student | 💻 Code Enthusiast | 📈 Learning Full-Stack & AI
 
 [![GitHub followers](https://img.shields.io/github/followers/1231196?style=social)](https://github.com/1231196)
 [![Profile views](https://komarev.com/ghpvc/?username=1231196&color=blue)](https://github.com/1231196)
