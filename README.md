@@ -93,41 +93,14 @@ I'm constantly exploring new technologies and challenging myself with projects i
 
 ---
 
-# 📚 Featured Interests
+# 📌 What I'm Focused On
 
-Currently working and learning around:
-
-* 🤖 AI-powered applications
-* 🔍 RAG-based knowledge systems
-* 💬 Intelligent chatbots
-* ⚙️ Workflow automation
-* 🏗️ Backend architecture
-* 🛒 Full-stack web applications
-* ☁️ Cloud deployments
-* 🔐 Secure software engineering
-* 🛡️ Ethical hacking & penetration testing
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1231196\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1231196\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=1231196\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+* 🤖 Building AI-powered applications
+* 🔍 Exploring RAG systems and vector databases
+* 🧠 Working with LLMs, embeddings and semantic search
+* ⚙️ Creating automation workflows
+* 🔐 Learning cybersecurity and penetration testing
+* 🏗️ Improving backend architecture and scalable systems
 
 ---
 
@@ -146,6 +119,11 @@ Currently working and learning around:
     <img alt="Instagram" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" />
   </a>
 </p>
+
+---
+
+> *Always building, always learning.* 🚀
+
 
 ---
 
