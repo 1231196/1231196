@@ -1,130 +1,174 @@
+Sim. Hoje em dia, os melhores perfis do GitHub usam **ícones** em vez de listas de texto. Fica muito mais limpo e profissional.
+
+Experimenta algo deste género:
+
+---
+
 # 👋 Hi, I'm Rodrigo Faria
 
-> 🎓 Computer Engineering Graduate | 🤖 AI & Software Engineer | 🔐 Cybersecurity Enthusiast
+### AI Engineer • Software Engineer • Computer Engineering Graduate
 
-[![GitHub followers](https://img.shields.io/github/followers/1231196?style=social)](https://github.com/1231196)
-[![Profile views](https://komarev.com/ghpvc/?username=1231196\&color=blue)](https://github.com/1231196)
+Building intelligent software with **Artificial Intelligence**, **Backend Engineering**, and **Cloud Technologies**.
+
+Currently focused on **LLMs**, **RAG**, **AI Agents**, and scalable backend systems.
 
 ---
 
 # 🚀 About Me
 
-I'm **Rodrigo Faria**, a **Computer Engineering graduate** passionate about building intelligent software solutions.
-
-My main interests revolve around **Artificial Intelligence**, **Software Engineering**, and **Cybersecurity**, where I enjoy combining modern technologies to solve real-world problems.
-
-I'm constantly exploring new technologies and challenging myself with projects involving AI, backend systems, cloud services, automation, and offensive security.
-
-### 🔍 Currently Exploring
-
-* 🤖 Retrieval-Augmented Generation (RAG)
-* 🧠 Large Language Models (LLMs)
-* ⚡ AI Agents & Automation
-* 🔎 Vector Databases & Semantic Search
-* 🛡️ Cybersecurity & Penetration Testing
-* ☁️ Cloud Infrastructure & Microservices
-* 🚀 Building scalable backend systems
+* 🎓 B.Sc. in Computer Engineering
+* 🤖 Passionate about Artificial Intelligence
+* 💻 Backend & Full Stack Developer
+* 🔐 Cybersecurity Enthusiast
+* ☁️ Cloud & DevOps Learner
+* 🚀 Always building side projects
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+## Languages
 
-`C#` • `.NET` • `Java` • `Python` • `JavaScript` • `TypeScript` • `SQL` • `C` • `Assembly` • `HTML` • `CSS`
-
-### Backend
-
-* ASP.NET Core
-* Node.js
-* Express
-* FastAPI
-* Spring Boot
-* REST APIs
-* Microservices
-
-### Frontend
-
-* React
-* Next.js
-* Tailwind CSS
-
-### Artificial Intelligence
-
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
-* LlamaIndex
-* Gemini API
-* Ollama
-* Embeddings
-* Semantic Search
-* Vector Databases
-* AI Automation
-* Document Processing
-
-### Databases
-
-* MongoDB
-* SQL Server
-* MySQL
-* Qdrant
-* Redis
-
-### DevOps & Tools
-
-* Docker
-* Git
-* GitHub Actions
-* CI/CD
-* PM2
-* Linux
-* Swagger
-* Postman
-* Visual Studio
-* Visual Studio Code
-
-### Cybersecurity
-
-* Web Application Security
-* Penetration Testing
-* API Security
-* Secure Software Development
-* OWASP Top 10
-
----
-
-# 📌 What I'm Focused On
-
-* 🤖 Building AI-powered applications
-* 🔍 Exploring RAG systems and vector databases
-* 🧠 Working with LLMs, embeddings and semantic search
-* ⚙️ Creating automation workflows
-* 🔐 Learning cybersecurity and penetration testing
-* 🏗️ Improving backend architecture and scalable systems
-
----
-
-# 🌍 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/rodrigofaria/" target="_blank">
-    <img alt="LinkedIn" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/1231196" target="_blank">
-    <img alt="GitHub" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/rodrigo.faria5" target="_blank">
-    <img alt="Instagram" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" />
-  </a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,js,ts,c,html,css,mysql,mongodb" />
 </p>
 
 ---
 
-> *Always building, always learning.* 🚀
+## AI & Machine Learning
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+* 🤖 Large Language Models (LLMs)
+* 🧠 RAG
+* 🔍 Semantic Search
+* 📄 LlamaIndex
+* ⚡ Ollama
+* 💎 Gemini API
+* 📚 Embeddings
+* 🗂️ Vector Databases (Qdrant)
 
 ---
 
-> *"Always building, always learning."* 🚀
+## Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,fastapi,spring" />
+</p>
+
+* REST APIs
+* Authentication & Authorization
+* Microservices
+
+---
+
+## Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+---
+
+## Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+Qdrant • SQL Server
+
+---
+
+## DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,githubactions" />
+</p>
+
+Swagger • Postman • PM2
+
+---
+
+## Cybersecurity
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kali,linux" />
+</p>
+
+* Web Security
+* API Security
+* OWASP Top 10
+* Penetration Testing
+
+---
+
+# 📌 Currently Learning
+
+* 🤖 AI Agents
+* 🧠 LangGraph
+* 🔥 LangChain
+* ☁️ Kubernetes
+* ⚡ MCP (Model Context Protocol)
+* 🏗️ System Design
+
+---
+
+# 📂 Featured Projects
+
+### 🤖 AI Document Assistant
+
+RAG-powered assistant capable of answering questions over private documents using vector search and LLMs.
+
+---
+
+### 💎 Bracelet E-commerce Platform
+
+A complete e-commerce platform featuring secure payments, inventory management, and order automation.
+
+---
+
+### ⚙️ AI Automation
+
+Building intelligent workflows powered by LLMs and external APIs.
+
+---
+
+# 📊 GitHub Stats
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+```
+
+---
+
+# 🏆 GitHub Trophies
+
+```md
+[![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+> **"Building intelligent software, one project at a time."** 🚀
+
