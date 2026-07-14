@@ -135,13 +135,13 @@ Building intelligent workflows powered by LLMs and external APIs.
 
 # 📊 GitHub Stats
 
-```md
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=1231196&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1231196&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=1231196&theme=tokyonight)
-```
+
 
 ---
 
