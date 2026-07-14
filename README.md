@@ -1,6 +1,3 @@
-Sim. Hoje em dia, os melhores perfis do GitHub usam **ícones** em vez de listas de texto. Fica muito mais limpo e profissional.
-
-Experimenta algo deste género:
 
 ---
 
